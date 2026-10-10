@@ -24,7 +24,6 @@ My background is in HR, data and platform delivery. I have worked on a global le
 ![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?logo=dynamics365&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)
 
 ## Languages
