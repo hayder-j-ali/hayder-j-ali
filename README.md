@@ -2,13 +2,13 @@
 
 **Business & Data Analyst** in Munich. I turn what people need into systems and data they can trust.
 
-My background is in HR, data and platform delivery. I have worked on a global learning platform for 200,000 users and on CRM and analytics for an investment banking advisory. I work mostly on the Microsoft stack: Power Platform, Dataverse, Dynamics 365 and Power BI. I use Python and SQL for the data side.
+My background is in HR, data and platform delivery. I have worked on a global learning platform for ~300,000 users and on CRM and analytics for an investment banking advisory. I work mostly on the Microsoft stack: Power Platform, Dataverse, Dynamics 365 and Power BI. I use Python and SQL for the data side.
 
 ## What I work on
 
 - **Requirements and delivery:** stakeholder interviews, user stories, Scrum, UAT
 - **Data and BI:** data modeling, data quality, Power BI, SQL
-- **AI with a person in control:** agents, RAG and human-in-the-loop approval flows
+- **AI automations:** agents, RAG and human-in-the-loop flows
 
 ## Projects
 
