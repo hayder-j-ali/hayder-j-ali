@@ -16,6 +16,7 @@ My background is in HR, data and platform delivery. I have worked on a global le
 |---|---|---|
 | [Upskilling-Recommender-RAG](https://github.com/hayder-j-ali/Upskilling-Recommender-RAG) | Recommends learning content to employees. Dense and BM25 retrieval, rank fusion, LLM re-ranking, and an honest evaluation. Anonymized version of my Master's thesis. | Python, FAISS, BM25, Gemini, Streamlit, pytest, GitHub Actions |
 | [fintom](https://github.com/hayder-j-ali/fintom) | An offline-first personal finance app. It is also my practice ground for a data pipeline: SQLite, then Google Sheets, then DuckDB. | React Native, Expo, TypeScript, SQLite |
+| [second-brain-vault-template](https://github.com/hayder-j-ali/second-brain-vault-template) | A clone-able second brain that Claude maintains as a wiki. A weekly cloud agent scouts the field and opens a PR with one recommended action. Nothing reaches `main` without review, even on GitHub Free. | Claude Code, Obsidian, GitHub Actions, Bash, git hooks |
 
 ## Skills
 
